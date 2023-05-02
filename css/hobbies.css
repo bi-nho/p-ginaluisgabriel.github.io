@@ -1,0 +1,10 @@
+body{
+  background-color:#98bf64;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+  border-color: black;
+  border-width: 1px;
+  width: 100%;
+}
